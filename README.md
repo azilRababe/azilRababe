@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rababe Azil</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **MERN Stack**
 
