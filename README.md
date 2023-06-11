@@ -105,12 +105,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/azilRababe/azilRababe/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h6 align="center">Thank you for visiting my profile! Feel free to explore my repositories and reach out to me if you have any questions or collaboration opportunities.</h6>
 
 ###
