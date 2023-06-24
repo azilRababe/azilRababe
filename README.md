@@ -1,15 +1,17 @@
-<h1 align="center">Meowdy! 😺 I'm Rababe Azil</h1>
-<h3 align="center">A Professional Cat Lover and Software Engineer</h3>
+<h1 align="center">Welcome! I'm Rababe Azil</h1>
+<h3 align="center">Professional Cat Lover and Software Engineer</h3>
 
-- 🌱 Currently meow-tivating myself to learn **Data Science**. Because analyzing cat videos is a serious business!
+<br/>
 
-- 💬 Ask me anything about **MERN Stack** or the best ways to keep your code as clean as a cat's whiskers!
-
-- 📫 You can reach me at **azilrababe@gmail.com** to chat about coding, share adorable cat pictures, or discuss the age-old debate: "Are cats the true rulers of the universe?"
+🌱 Currently focused on expanding my expertise in **Data Science**. I believe that even analyzing cat videos can yield valuable insights!
+   
+💬 Feel free to ask me about the **MERN Stack** or the best practices for writing clean and efficient code.
+   
+📫 You can reach me at **azilrababe@gmail.com** for discussions on coding, sharing adorable cat pictures, or engaging in the timeless debate: **Are cats the true rulers of the universe?**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect and create something amazing together!</h3>
 <p align="left">
 <a href="https://twitter.com/azil_rababe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azil_rababe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/azilrababe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azilrababe" height="30" width="40" /></a>
