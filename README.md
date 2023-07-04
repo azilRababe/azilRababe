@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Rababe Azil</h1>
-<h3 align="center">Full-stack Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <br/>
 
