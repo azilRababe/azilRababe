@@ -1,5 +1,5 @@
-<h1 align="center">Welcome! I'm Rababe Azil</h1>
-<h3 align="center">Professional Cat Lover and Software Engineer</h3>
+<h1 align="center">Hey! I'm Rababe Azil</h1>
+<h3 align="center">Full-stack Engineer</h3>
 
 <br/>
 
