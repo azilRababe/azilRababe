@@ -21,6 +21,7 @@
 - **DevOps & Tools**: Docker, Git, CI/CD, Linux, Bash
 
 ### 📈 Projects & Contributions
+- [Drowsiness Detection System](https://github.com/azilRababe/DrowsyAlertApp): A machine learning-based system that detects driver drowsiness using facial recognition and real-time data analysis to prevent accidents.
 - [Digihounds](https://www.digi-hounds.com/): A digital marketing agency specializing in SEO, branding, and social media growth. 
 - [DeepDocs](): A Next.js-based SAAS platform where users can upload PDFs and chat with them, extracting relevant information. **🚀 Launching soon!**
 - [Furever](https://furever-flax.vercel.app/): A pet website built for shelters to facilitate adoptions and care resources. Because all pets deserve a home! 🐶🐱
