@@ -8,7 +8,7 @@
 - 💡 **Current Focus**: Cybersecurity, AI, and Web Development
 - 🎓 **Education**: Master's in Cybersecurity | Data Science Bootcamp Graduate (le wagon)
 - 🏋️ **Fitness Enthusiast**: Advanced weightlifter 💪
-- 🌍 **Multilingual**: Arabic | English | French | Spanish (B1)
+- 🌍 **Multilingual**: Arabic | English | French | Spanish
 - 🏄 **Adventurer**: Surfer, traveler, and explorer
 - 🧠 **Fun Fact**: I have a tattoo that says **resiliencia** on my messed-up shoulder
 
